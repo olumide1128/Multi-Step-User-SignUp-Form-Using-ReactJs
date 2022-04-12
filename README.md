@@ -1,3 +1,11 @@
+# Multi Step User Sign Up Form
+This is a User Sign Up Form which has multiple steps, It is created using ReactJs functional Components 
+which renders each succeeding step on the same page.
+
+## Snapshots
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
