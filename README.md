@@ -3,7 +3,7 @@ This is a User Sign Up Form which has multiple steps, It is created using ReactJ
 which renders each succeeding step on the same page.
 
 ## Snapshots
-
+![](https://github.com/olumide1128/Multi-Step-User-SignUp-Form-Using-ReactJs/blob/master/snapshots/Screenshot%20(228).png)
 
 
 # Getting Started with Create React App
