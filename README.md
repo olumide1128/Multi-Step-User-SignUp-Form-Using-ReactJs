@@ -5,6 +5,8 @@ which renders each succeeding step on the same page.
 ## Snapshots
 ![](https://github.com/olumide1128/Multi-Step-User-SignUp-Form-Using-ReactJs/blob/master/snapshots/Screenshot%20(228).png)
 
+![](https://github.com/olumide1128/Multi-Step-User-SignUp-Form-Using-ReactJs/blob/master/snapshots/Screenshot%20(229).png)
+
 
 # Getting Started with Create React App
 
